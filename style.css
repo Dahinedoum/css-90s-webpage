@@ -1,0 +1,47 @@
+
+#body {
+    background-color: black;
+    background-image: url('img/emoji.png');
+
+}
+
+
+.container  {
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+   
+}
+
+.bigger-text {
+    color: rgb(223, 9, 243);
+}
+
+.container header{
+    color: rgb(223, 9, 243);
+}
+
+#window {
+    display: block;
+    margin: auto;
+}
+
+#window img {
+    width: 600px;
+    height: 500px;
+    display:block;
+
+}
+
+
+
+.container main{
+    position:relative;
+}
+
+main b {
+    color: black
+}
+
